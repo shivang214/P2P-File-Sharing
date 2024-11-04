@@ -124,7 +124,7 @@ list_files​ <group_id>
 download_file​ <group_id> <file_name> <destination_path>
 ```
 
-13. **Logout:**​
+13. **Logout:​**
 
 ```
 logout
